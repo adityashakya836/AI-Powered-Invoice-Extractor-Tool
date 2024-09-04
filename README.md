@@ -1,5 +1,4 @@
 # 🧾 AI-Powered Invoice Extractor Tool
-![AI-Powered Invoice Extractor](https://github.com/adityashakya836/AI-Powered-Invoice-Extractor-Tool/blob/main/invoice1.png)
 
 This AI-powered Invoice Extractor tool leverages generative AI to automatically extract essential information from invoices. Whether it's extracting vendor details, dates, amounts, or line items, this tool simplifies the process of handling and managing invoices.
 
@@ -53,6 +52,9 @@ This AI-powered Invoice Extractor tool leverages generative AI to automatically 
 1. **Upload a PDF invoice** through the Streamlit interface.
 2. The tool will automatically **extract and display key information** from the invoice.
 3. **Download or store** the extracted data as needed.
+
+![AI-Powered Invoice Extractor](https://github.com/adityashakya836/AI-Powered-Invoice-Extractor-Tool/blob/main/invoice1.png)
+![AI-Powered Invoice Extractor](https://github.com/adityashakya836/AI-Powered-Invoice-Extractor-Tool/blob/main/invoice2.png)
 
 ## 🤝 Contributing
 
