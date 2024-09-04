@@ -36,12 +36,14 @@ This AI-powered Invoice Extractor tool leverages generative AI to automatically 
 2. **Create a virtual environment:**
    ```bash
    python3 -m venv venv
-   
-3. **Activate the virtual environment:**
-  ```bash
-  venv\Scripts\activate
 
-4. **Create a virtual environment:**
+3. **Activate virtual environment:**
    ```bash
-   python3 -m venv venv
+   venv\Scripts\activate
+4. **Install the dependencies**
+   ```bash
+   pip install -r requirements.txt
+5. **Run the streamlit application**
+   ```bash
+   streamlit run invoide_extractor.py
 
