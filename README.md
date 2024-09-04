@@ -47,3 +47,12 @@ This AI-powered Invoice Extractor tool leverages generative AI to automatically 
    ```bash
    streamlit run invoide_extractor.py
 
+## 🔧 How to Use
+
+1. **Upload a PDF invoice** through the Streamlit interface.
+2. The tool will automatically **extract and display key information** from the invoice.
+3. **Download or store** the extracted data as needed.
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to submit a pull request or open an issue if you have any ideas, improvements, or bug fixes.
